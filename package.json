@@ -2,7 +2,7 @@
   "name": "angular-material-design-lite",
   "version": "0.4.1",
   "description": "Angular wrapper for Material Design Lite.",
-  "main": "./dist/angular-material-design-lite.min.js",
+  "main": "./dist/index.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",
